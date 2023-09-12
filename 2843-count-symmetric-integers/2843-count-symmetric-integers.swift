@@ -7,13 +7,13 @@ class Solution {
             var sum1 = 0
             var sum2 = 0
 
-            for j in 0..<s.count/2{
-                sum1 += s[j]
+            for (index,value) in s.enumerated() {
+                if index < s.count/2 {
+                    sum1 += s[index]
+                }else {
+                    sum2 += s[index]
+                }
             }
-            for m in s.count/2..<s.count {
-                sum2 += s[m]
-            }
-
             if sum1 == sum2 {result += 1}
         }
         return result
