@@ -8,14 +8,17 @@ class Solution {
         
         while p1 < p2 {
             let sum = arr[p1] + arr[p2] 
-            if sum > k {
-                p2 -= 1
-            }else if sum < k {
-                p1 += 1
-            }else {
+            if sum == k {
                 p1 += 1
                 p2 -= 1
                 result += 1
+            }else {
+                if sum >= k {
+                    p2 -= 1
+                }else {
+                    p1 += 1
+                }
+                
             }
         }
         return result
