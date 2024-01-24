@@ -1,22 +1,19 @@
 class Solution {
     func mergeAlternately(_ word1: String, _ word2: String) -> String {
         var result = ""
-        let w1 = Array(word1)
-        let w2 = Array(word2)
-        var pointer1 = 0
-        var pointer2 = 0
+        let word1 = Array(word1)
+        let word2 = Array(word2)
 
-        while pointer1 < w1.count || pointer2 < w2.count {
-            if pointer1 < w1.count {
-                result += String(w1[pointer1])
-                pointer1 += 1
+        for i in 0..<max(word1.count, word2.count)  {
+            if i < word1.count{
+                result += String(word1[i])
             }
-            
-            if pointer2 < w2.count {
-                result += String(w2[pointer2])
-                pointer2 += 1
+
+            if i < word2.count{
+                result += String(word2[i])
             }
         }
+
         return result
     }
 }
