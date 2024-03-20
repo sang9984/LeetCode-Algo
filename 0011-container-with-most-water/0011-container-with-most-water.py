@@ -9,7 +9,7 @@ class Solution:
             w = (p2 - p1) * h
             record = max(record, w)
             print(p1, p2)
-            if height[p1] >= height[p2]:
+            if height[p1] > height[p2]:
                 p2 -= 1
             else:
                 p1 += 1
