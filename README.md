@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sang9984/LeetCode-Algo/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
