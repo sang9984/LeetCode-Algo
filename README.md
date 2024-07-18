@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sang9984/LeetCode-Algo/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sang9984/LeetCode-Algo/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sang9984/LeetCode-Algo/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
