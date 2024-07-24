@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1811-fix-names-in-a-table](https://github.com/sang9984/LeetCode-Algo/tree/master/1811-fix-names-in-a-table) |
+| [1908-recyclable-and-low-fat-products](https://github.com/sang9984/LeetCode-Algo/tree/master/1908-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
 | ------- |
