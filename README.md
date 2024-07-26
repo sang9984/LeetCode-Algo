@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sang9984/LeetCode-Algo/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sang9984/LeetCode-Algo/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sang9984/LeetCode-Algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sang9984/LeetCode-Algo/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Prefix Sum
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
