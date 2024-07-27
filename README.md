@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sang9984/LeetCode-Algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sang9984/LeetCode-Algo/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sang9984/LeetCode-Algo/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sang9984/LeetCode-Algo/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sang9984/LeetCode-Algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sang9984/LeetCode-Algo/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sang9984/LeetCode-Algo/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sang9984/LeetCode-Algo/tree/master/0783-search-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sang9984/LeetCode-Algo/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
