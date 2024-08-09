@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sang9984/LeetCode-Algo/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
