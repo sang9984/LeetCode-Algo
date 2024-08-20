@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sang9984/LeetCode-Algo/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sang9984/LeetCode-Algo/tree/master/0061-rotate-list) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sang9984/LeetCode-Algo/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
 |  |
 | ------- |
