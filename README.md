@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0889-buddy-strings](https://github.com/sang9984/LeetCode-Algo/tree/master/0889-buddy-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0889-buddy-strings](https://github.com/sang9984/LeetCode-Algo/tree/master/0889-buddy-strings) |
 <!---LeetCode Topics End-->
