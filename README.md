@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sang9984/LeetCode-Algo/tree/master/0061-rotate-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sang9984/LeetCode-Algo/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
