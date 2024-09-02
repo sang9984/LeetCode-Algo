@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
+| [1311-largest-magic-square](https://github.com/sang9984/LeetCode-Algo/tree/master/1311-largest-magic-square) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sang9984/LeetCode-Algo/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sang9984/LeetCode-Algo/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sang9984/LeetCode-Algo/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
+| [1311-largest-magic-square](https://github.com/sang9984/LeetCode-Algo/tree/master/1311-largest-magic-square) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sang9984/LeetCode-Algo/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1311-largest-magic-square](https://github.com/sang9984/LeetCode-Algo/tree/master/1311-largest-magic-square) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Binary Search Tree
 |  |
