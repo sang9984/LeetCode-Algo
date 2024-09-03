@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sang9984/LeetCode-Algo/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/sang9984/LeetCode-Algo/tree/master/0061-rotate-list) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sang9984/LeetCode-Algo/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sang9984/LeetCode-Algo/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sang9984/LeetCode-Algo/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/sang9984/LeetCode-Algo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sang9984/LeetCode-Algo/tree/master/0171-excel-sheet-column-number) |
 | [0293-flip-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0293-flip-game) |
