@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0889-buddy-strings](https://github.com/sang9984/LeetCode-Algo/tree/master/0889-buddy-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2444-longest-ideal-subsequence](https://github.com/sang9984/LeetCode-Algo/tree/master/2444-longest-ideal-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sang9984/LeetCode-Algo/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
+| [2444-longest-ideal-subsequence](https://github.com/sang9984/LeetCode-Algo/tree/master/2444-longest-ideal-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/sang9984/LeetCode-Algo/tree/master/0171-excel-sheet-column-number) |
 | [0293-flip-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0293-flip-game) |
 | [0889-buddy-strings](https://github.com/sang9984/LeetCode-Algo/tree/master/0889-buddy-strings) |
+| [2444-longest-ideal-subsequence](https://github.com/sang9984/LeetCode-Algo/tree/master/2444-longest-ideal-subsequence) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/sang9984/LeetCode-Algo/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Heap (Priority Queue)
 |  |
