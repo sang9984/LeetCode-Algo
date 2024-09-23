@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sang9984/LeetCode-Algo/tree/master/0739-daily-temperatures) |
+| [0932-monotonic-array](https://github.com/sang9984/LeetCode-Algo/tree/master/0932-monotonic-array) |
 | [1311-largest-magic-square](https://github.com/sang9984/LeetCode-Algo/tree/master/1311-largest-magic-square) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sang9984/LeetCode-Algo/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
