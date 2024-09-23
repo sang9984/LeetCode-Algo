@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sang9984/LeetCode-Algo/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0441-arranging-coins](https://github.com/sang9984/LeetCode-Algo/tree/master/0441-arranging-coins) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sang9984/LeetCode-Algo/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/sang9984/LeetCode-Algo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sang9984/LeetCode-Algo/tree/master/0171-excel-sheet-column-number) |
+| [0441-arranging-coins](https://github.com/sang9984/LeetCode-Algo/tree/master/0441-arranging-coins) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/sang9984/LeetCode-Algo/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Combinatorics
 |  |
