@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/sang9984/LeetCode-Algo/tree/master/0739-daily-temperatures) |
 | [1311-largest-magic-square](https://github.com/sang9984/LeetCode-Algo/tree/master/1311-largest-magic-square) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sang9984/LeetCode-Algo/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/sang9984/LeetCode-Algo/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0544-output-contest-matches](https://github.com/sang9984/LeetCode-Algo/tree/master/0544-output-contest-matches) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sang9984/LeetCode-Algo/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
