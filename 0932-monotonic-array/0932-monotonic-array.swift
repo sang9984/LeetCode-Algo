@@ -1,9 +1,11 @@
 class Solution {
     func isMonotonic(_ nums: [Int]) -> Bool {
-        if nums.count == 1 {return true}
-
-        var result = nums.sorted()
-
-        return result == nums || nums == result.reversed()
+        var increasing = true
+        var decreasing = true
+        for i in 1..<nums.count {
+            increasing = increasing && nums[i - 1] <= nums[i]
+            decreasing = decreasing && nums[i - 1] >= nums[i]
+        }
+        return increasing || decreasing
     }
 }
