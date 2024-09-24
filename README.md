@@ -70,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sang9984/LeetCode-Algo/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sang9984/LeetCode-Algo/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sang9984/LeetCode-Algo/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/sang9984/LeetCode-Algo/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/sang9984/LeetCode-Algo/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
 |  |
