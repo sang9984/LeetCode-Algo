@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sang9984/LeetCode-Algo/tree/master/0739-daily-temperatures) |
 | [0932-monotonic-array](https://github.com/sang9984/LeetCode-Algo/tree/master/0932-monotonic-array) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/sang9984/LeetCode-Algo/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1311-largest-magic-square](https://github.com/sang9984/LeetCode-Algo/tree/master/1311-largest-magic-square) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sang9984/LeetCode-Algo/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/sang9984/LeetCode-Algo/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Depth-First Search
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/sang9984/LeetCode-Algo/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## String
 |  |
 | ------- |
