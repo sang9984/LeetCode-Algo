@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sang9984/LeetCode-Algo/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/sang9984/LeetCode-Algo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sang9984/LeetCode-Algo/tree/master/0055-jump-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sang9984/LeetCode-Algo/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sang9984/LeetCode-Algo/tree/master/0001-two-sum) |
 | [0889-buddy-strings](https://github.com/sang9984/LeetCode-Algo/tree/master/0889-buddy-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sang9984/LeetCode-Algo/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sang9984/LeetCode-Algo/tree/master/1960-check-if-the-sentence-is-pangram) |
